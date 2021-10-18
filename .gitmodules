@@ -1,0 +1,24 @@
+[submodule "asyncmap-ddialar"]
+	path = asyncmap-ddialar
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-ddialar
+[submodule "asyncmap-lorenaolaru"]
+	path = asyncmap-lorenaolaru
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-lorenaolaru
+[submodule "asyncmap-mstoisor"]
+	path = asyncmap-mstoisor
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-mstoisor
+[submodule "asyncmap-crguezl"]
+	path = asyncmap-crguezl
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-crguezl
+[submodule "asyncmap-Pmolmar"]
+	path = asyncmap-Pmolmar
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-Pmolmar
+[submodule "asyncmap-alu0101102726"]
+	path = asyncmap-alu0101102726
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-alu0101102726
+[submodule "asyncmap-PaulaExposito"]
+	path = asyncmap-PaulaExposito
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-PaulaExposito
+[submodule "asyncmap-alu0100898293"]
+	path = asyncmap-alu0100898293
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-alu0100898293
