@@ -5,7 +5,7 @@
 	path = asyncmap-lorenaolaru
 	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-lorenaolaru
 [submodule "asyncmap-mstoisor"]
-	path = asyncmap-mstoisor
+	path = asyncmap-mstoisor-melisa
 	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-mstoisor
 [submodule "asyncmap-crguezl"]
 	path = asyncmap-crguezl
